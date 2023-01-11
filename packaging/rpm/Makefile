@@ -1,4 +1,4 @@
-PACKAGE_NAME?=	manegron-repo
+PACKAGE_NAME?=	lblanco-repo
 
 VERSION?=	$(shell git describe --abbrev=6 --tags HEAD --always | sed 's/-/_/g')
 

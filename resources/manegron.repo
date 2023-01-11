@@ -1,6 +1,0 @@
-[manegron-devel]
-name=manegron repository devel
-baseurl=http://rbrepo.redborder.lan/manegron/
-gpgcheck=0
-enabled=1
-sslcheck=0

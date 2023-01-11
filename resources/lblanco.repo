@@ -1,0 +1,6 @@
+[lblanco-devel]
+name=lblanco repository devel
+baseurl=http://rbrepo.redborder.lan/lblanco/
+gpgcheck=0
+enabled=1
+sslcheck=0
